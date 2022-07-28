@@ -4,7 +4,7 @@
 
 ![Website Preview](thumbnail.png)
 
-![Website Preview](Screenshot.png)
+![Website Preview](Screenshot1.png)
 
 ## Technology used?
 
